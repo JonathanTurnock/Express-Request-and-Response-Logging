@@ -2,7 +2,7 @@
 
 ## Introduction
 While Logging the Request object in Express is amazingly easy, doing so with the response is not
- quite as straight fowards.
+ quite as straight forwards.
  
 We need to utilize a couple of tricks and some patching to get things working smoothly and get
  all the information we are sending back to the client.
