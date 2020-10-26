@@ -1,6 +1,6 @@
 # Logging Express Request & Response Content
 
-## Summary
+## Introduction
 While Logging the Request object in Express is amazingly easy, doing so with the response is not
  quite as straight fowards.
  
